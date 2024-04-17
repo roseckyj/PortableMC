@@ -1,7 +1,6 @@
-# PortableMC
+# Portable minecraft
 
-This is an adapted version of the [PortableMC](https://github.com/portablemc/portablemc) repository for the needs of user testing at FI MUNI.
+This is a set of scripts for headless setup of minecraft clients.
 
-## Installation
-
-Download the [PortableMC.bat](PortableMC.bat) file and run it. The script will download the latest version of Minecraft launcher and run it.
+For the official Minecraft launcher use [mojang.bat](mojang.bat).
+To use PrismLauncher with an offline account use [prism.bat](prism.bat).
